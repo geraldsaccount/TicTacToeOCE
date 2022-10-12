@@ -1,0 +1,15 @@
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/bin/Debug/net5.0/TicTacToeOCE.deps.json
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/bin/Debug/net5.0/TicTacToeOCE.runtimeconfig.json
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/bin/Debug/net5.0/TicTacToeOCE.runtimeconfig.dev.json
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/bin/Debug/net5.0/TicTacToeOCE.dll
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/bin/Debug/net5.0/ref/TicTacToeOCE.dll
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/bin/Debug/net5.0/TicTacToeOCE.pdb
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/obj/Debug/net5.0/TicTacToeOCE.csproj.AssemblyReference.cache
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/obj/Debug/net5.0/TicTacToeOCE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/obj/Debug/net5.0/TicTacToeOCE.AssemblyInfoInputs.cache
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/obj/Debug/net5.0/TicTacToeOCE.AssemblyInfo.cs
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/obj/Debug/net5.0/TicTacToeOCE.csproj.CoreCompileInputs.cache
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/obj/Debug/net5.0/TicTacToeOCE.dll
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/obj/Debug/net5.0/ref/TicTacToeOCE.dll
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/obj/Debug/net5.0/TicTacToeOCE.pdb
+/Users/geraldmontufar/RiderProjects/TicTacToeOCE/TicTacToeOCE/obj/Debug/net5.0/TicTacToeOCE.genruntimeconfig.cache
